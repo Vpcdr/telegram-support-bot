@@ -2,7 +2,7 @@ import os
 import telebot
 
 # توکن ربات تلگرام خود را به جای متن زیر قرار دهید
-TOKEN = 'TOKEN_BOT_KHOD_RA_INJA_VARD_KONID'
+TOKEN = '9177015792:AAGugV7I4lr-I_8P43zPR4LL15-dSwUlc5I'
 bot = telebot.TeleBot(TOKEN)
 
 
